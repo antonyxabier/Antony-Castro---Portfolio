@@ -31,7 +31,7 @@ A **stealth-action C++ project** built around tactical decision-making and AI me
 - Focused on **player stealth, AI responses, and level flow**  
 - Demonstrates object-oriented programming and system design in C++  
 📂 [View Project](https://github.com/antonyxabier/Operation-Nightfall)
-
+🎥 [Watch My Gameplay Programming Highlight Reel Here](https://youtu.be/xIEaZ5voeug)
 ---
 
 ### 🧬 Conway’s Game of Life  
