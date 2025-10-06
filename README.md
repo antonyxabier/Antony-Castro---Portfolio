@@ -39,7 +39,7 @@ A C++ implementation of the **classic cellular automaton simulation**.
 - Explores **data structures, simulation loops, and algorithm optimization**  
 - Showcases clean code structure and visualization of emergent behavior  
 📂 [View Project](https://github.com/antonyxabier/GAME-OF-LIFE)
-
+🎥 [Watch My Gameplay Programming Highlight Reel Here](https://youtu.be/wja7JimEks8)
 ---
 
 ### 🔫 FPS Prototype (Unreal Engine)  
