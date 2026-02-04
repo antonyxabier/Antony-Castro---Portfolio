@@ -5,7 +5,7 @@
 💻 Aspiring **Gameplay Programmer** | Passionate about Unreal Engine, C++, and interactive systems.  
 🌍 Based in Corona, CA | Fluent in English & Spanish  
 
-I love building engaging gameplay mechanics and exploring how code can bring immersive player experiences to life. Currently, I’m focusing on **C++**, **Unreal Engine**, and learning new game engine technologies such as **Verse** for the Metaverse. My goal is to contribute to innovative projects like **Fortnite** and beyond.
+I love building engaging gameplay mechanics and exploring how code can bring immersive player experiences to life. Currently, I’m focusing on **C++**, **Unreal Engine**, and learning new game engine technologies such as **Verse** for the Metaverse.
 
 ---
 
