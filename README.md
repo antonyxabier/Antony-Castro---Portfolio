@@ -1,27 +1,22 @@
 # Antony-Castro---Portfolio
-# 👋 Hi, I’m Antony Castro
+#👋 Hi, I’m Antony Castro
+🎮 Gameplay Programmer
+💻 Specializing in Unreal Engine, C++, and real‑time interactive systems
+🌍 Based in Corona, CA | Fluent in English & Spanish
 
-🎮 **Game Development Student @ Full Sail University**  
-💻 Aspiring **Gameplay Programmer** | Passionate about Unreal Engine, C++, and interactive systems.  
-🌍 Based in Corona, CA | Fluent in English & Spanish  
+I’m a Gameplay Programmer who loves building responsive, engaging systems that make games feel alive. I focus on C++, Unreal Engine, and architecting gameplay features that balance technical reliability with player experience. I enjoy solving complex problems, collaborating across disciplines, and bringing ideas from prototype to polished implementation.
 
-I love building engaging gameplay mechanics and exploring how code can bring immersive player experiences to life. Currently, I’m focusing on **C++**, **Unreal Engine**, and learning new game engine technologies such as **Verse** for the Metaverse.
+#🔹 About Me
+🎓 Graduated with a B.S. in Game Development from Full Sail University
+🛠️ Strong foundation in C++, Unreal Engine Blueprints, and multithreaded systems
+🤝 Experienced in cross‑disciplinary collaboration across design, art, and engineering
+🚀 Passionate about gameplay programming, AI behavior, combat systems, and systemic mechanics
 
----
-
-## 🔹 About Me
-- 🎓 Studying Game Development (B.S.) at Full Sail University  
-- 🛠️ Strong foundation in **C++**, **Unreal Engine Blueprints**, and **multithreaded systems**  
-- 🤝 Experienced in collaborating on student projects, balancing design, gameplay, and technical implementation  
-- 🚀 Interested in gameplay programming, AI, combat systems, and puzzle mechanics  
-
----
-
-## 🔹 Skills
-- **Programming:** C++, Python, Unreal Engine Blueprints, Verse (beginner)  
-- **Systems:** AI, Combat Mechanics, Inventory Systems, Multiplayer Networking  
-- **Tools:** Visual Studio, GitHub, Trello, Perforce  
-- **Soft Skills:** Team collaboration, problem-solving, adaptability, communication  
+#🔹 Skills
+Programming: C++, Python, Unreal Engine Blueprints, Verse (beginner)
+Systems: AI, Combat Mechanics, Inventory Systems, Multiplayer Networking
+Tools: Visual Studio, GitHub, Trello, Perforce
+Soft Skills: Collaboration, problem solving, adaptability, clear communication
 
 ---
 ## 🔹 Featured Projects
